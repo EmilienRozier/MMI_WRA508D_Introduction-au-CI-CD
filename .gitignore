@@ -35,3 +35,6 @@ phpstan.neon
 
 ### ignore act installation files
 act.exe
+
+### ignore secret act file ###
+.secrets
